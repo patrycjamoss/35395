@@ -1,17 +1,22 @@
 h1{
+    margin-left: 1cm;
     color: white;
     font-size: xx-large;
 }
 
 section{
+    margin-left: 1cm;
     background-color: #808080;
     height: 800px;
     width: 300px;
     }
- div{
-     margin-left: 1cm;
+ div{ 
+        margin-left: 1cm;
         background-color: #fea500;
         height: 150px;
         width: 150px;
+        margin-bottom: 1cm;
     }
+  
+    
   
